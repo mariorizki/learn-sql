@@ -4,5 +4,12 @@
   "main": "index.js",
   "repository": "https://github.com/mariorizki/learn-sql.git",
   "author": "Mario Rizki <mariorizki07@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "dev": "^0.1.3"
+  }
 }
