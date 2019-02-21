@@ -1,0 +1,8 @@
+{
+  "name": "learn-sql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mariorizki/learn-sql.git",
+  "author": "Mario Rizki <mariorizki07@gmail.com>",
+  "license": "MIT"
+}
